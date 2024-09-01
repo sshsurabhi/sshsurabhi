@@ -17,7 +17,7 @@ Currently, I am expanding my knowledge by learning Python and delving into the r
 - ![Ethernet](https://img.shields.io/badge/-Ethernet-000000?style=flat-square&logo=network-wired&logoColor=white) ![UART](https://img.shields.io/badge/-UART-black?style=flat-square&logo=none) ![I2C](https://img.shields.io/badge/-I2C-black?style=flat-square&logo=none) ![Serial Communication](https://img.shields.io/badge/-Serial_Communication-black?style=flat-square&logo=none)
 
 ## What I'm working on
-Up next, I will be developing an e-commerce website where users can utilize a chatbox for assistance in navigating the website and obtaining information. The website will be developed using Next.js and React and will include a machine learning model built by myself.
+Up next, I will be developing an e-commerce website where users can utilize a chatbox for assistance in navigating the website and obtaining information. The website will be developed using Django backend with RestAPI and will include a machine learning model built by myself.
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
