@@ -5,6 +5,44 @@ I'm a Software developer with expertise in Python HTML, CSS, PostgreSQL, Django,
 Currently, I am expanding my knowledge by learning Python and delving into the realm of Data Science. My goal is to explore new horizons such as Machine Learning and Artificial Intelligence, aiming to discover and apply innovative solutions to real-world challenges.
 
 ## Skills
+<p>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width="80" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" width="80" height="40"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/devops.icon.ico" alt="DevOps" width="90" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" width="70" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="ArgoCD" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" alt="Ansible" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/git-bash.svg" alt="Python" width="80" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://vectorwiki.com/images/YaAhi__ubuntu.svg" alt="Ubuntu" width="50" height="41"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="41" width="80"/> </a> 
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" alt="github" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="51" width="80"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="100" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="68" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="70" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
+#<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="45"/> </a>
+#<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache_Kafka" height="45"/> </a>
+</p>
+
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PyQt5](https://img.shields.io/badge/-PyQt5-0078D7?style=flat-square&logo=python&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D7?style=flat-square&logo=windows&logoColor=white)
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFB450?style=flat-square&logo=google&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF4500?style=flat-square&logo=neural-network&logoColor=white)
