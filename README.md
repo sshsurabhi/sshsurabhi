@@ -39,8 +39,8 @@ Currently, I am expanding my knowledge by learning Python and delving into the r
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="70" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
-#<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="45"/> </a>
-#<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache_Kafka" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache_Kafka" height="45"/> </a>
 </p>
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PyQt5](https://img.shields.io/badge/-PyQt5-0078D7?style=flat-square&logo=python&logoColor=white)
