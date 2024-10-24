@@ -7,7 +7,6 @@ Having worked extensively with technologies like Docker, Jenkins, Linux and Pyth
 ## Skills
 - ![aws](https://skillicons.dev/icons?i=aws&theme=light) ![kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![docker](https://skillicons.dev/icons?i=docker&theme=light) ![terraform](https://skillicons.dev/icons?i=terraform&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) ![github](https://skillicons.dev/icons?i=github&theme=light) ![gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
 - ![py](https://skillicons.dev/icons?i=py&theme=light) ![linux](https://skillicons.dev/icons?i=linux&theme=light) ![ansible](https://skillicons.dev/icons?i=ansible&theme=light) ![prometheus](https://skillicons.dev/icons?i=prometheus&theme=light) ![grafana](https://skillicons.dev/icons?i=grafana&theme=light)
-- ![js](https://skillicons.dev/icons?i=js&theme=light) ![ts](https://skillicons.dev/icons?i=ts&theme=light) ![react](https://skillicons.dev/icons?i=react&theme=light) ![nextjs](https://skillicons.dev/icons?i=nextjs&theme=light) ![nodejs](https://skillicons.dev/icons?i=nodejs&theme=light) ![jquery](https://skillicons.dev/icons?i=jquery&theme=light)
 - ![html](https://skillicons.dev/icons?i=html&theme=light) ![css](https://skillicons.dev/icons?i=css&theme=light) ![sass](https://skillicons.dev/icons?i=sass&theme=light) ![tailwind](https://skillicons.dev/icons?i=tailwind&theme=light)
 - ![ruby](https://skillicons.dev/icons?i=ruby&theme=light) ![rails](https://skillicons.dev/icons?i=rails&theme=light) ![php](https://skillicons.dev/icons?i=php&theme=light)
 - ![mysql](https://skillicons.dev/icons?i=mysql&theme=light) ![mongodb](https://skillicons.dev/icons?i=mongodb&theme=light) ![postgres](https://skillicons.dev/icons?i=postgres&theme=light)
@@ -17,9 +16,7 @@ Having worked extensively with technologies like Docker, Jenkins, Linux and Pyth
 I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate Certification. After achieving that, I plan to pursue certifications in Terraform or Kubernetes to solidify my expertise in cloud infrastructure and container management. My goal is to become an AWS cloud expert, capable of designing scalable, cost-effective solutions.
 
 ## Get in Touch
-- [Portfolio](https://www.matiasroje-devops.de/)
-- [LinkedIn](https://www.linkedin.com/in/matias-roje-carrasco/)
-- [GitLab](https://gitlab.com/rojechi)
+- [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
 
 ## Skills
 <p>
@@ -74,5 +71,3 @@ I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate
 ## What I'm working on
 Up next, I will be developing an e-commerce website where users can utilize a chatbox for assistance in navigating the website and obtaining information. The website will be developed using Django backend with RestAPI and will include a machine learning model built by myself.
 
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
