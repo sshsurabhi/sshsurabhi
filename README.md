@@ -1,8 +1,15 @@
+## DevOps Engineer | Cloud Enthusiast | Automation Advocate
 # Hi, I'm Sai Sri Harsha Surabhi 👋
 
-I'm an enthusiastic DevOps Engineer with a passion for cloud technologies, automation, and scalable solutions. With expertise in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform. My current focus is on mastering AWS services, building CI/CD pipelines, and optimizing application deployments and container orchestration.
+Hello! I'm an enthusiastic DevOps Engineer dedicated to harnessing the power of cloud technologies, automation, and scalable solutions. With a strong foundation in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform.
 
-Having worked extensively with technologies like Docker, Jenkins, Linux and Python, I thrive on automating processes, improving system performance, and reducing manual intervention to make development more efficient and reliable. Even though my programming experience spans both frontend and backend development, with my core tech stack including Python, Django with Rest API, my current importance and concentration has been shifted to cloud engineering and infrastructure.
+Currently, my focus is on mastering the intricacies of AWS services, building robust CI/CD pipelines, and optimizing deployment strategies for applications using container orchestration. My journey in tech has been multifaceted, and I'm particularly excited by the prospects of driving innovation in cloud engineering and infrastructure development.
+
+I have a solid background in containerization technologies such as Docker, and I’m proficient with CI/CD tools like Jenkins. My experience with Linux and Python further complements my efforts to automate processes, enhance system performance, and minimize manual intervention—making the development lifecycle more efficient and reliable.
+
+In addition to my DevOps expertise, I've dabbled in both frontend and backend development, primarily focusing on Python and Django with REST APIs. However, my current passion lies in cloud engineering where I strive to push boundaries and explore new ways to leverage technology for smoother operational workflows.
+
+Join me on this journey as I share insights, learnings, and projects that fuel my passion for DevOps and cloud technologies. Let's build scalable infrastructure and make DevOps more efficient and reliable together!
 
 ## Skills
 - ![aws](https://skillicons.dev/icons?i=aws&theme=light) ![kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![docker](https://skillicons.dev/icons?i=docker&theme=light) ![terraform](https://skillicons.dev/icons?i=terraform&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) ![github](https://skillicons.dev/icons?i=github&theme=light) ![gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
@@ -13,8 +20,15 @@ Having worked extensively with technologies like Docker, Jenkins, Linux and Pyth
 - ![git](https://skillicons.dev/icons?i=git&theme=light) ![vscode](https://skillicons.dev/icons?i=vscode&theme=light)
 - ![PyQt5](https://img.shields.io/badge/-PyQt5-0078D7?style=flat-square&logo=python&logoColor=white)
 
-## What’s Next
-I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate Certification. After achieving that, I plan to pursue certifications in Terraform or Kubernetes to solidify my expertise in cloud infrastructure and container management. My goal is to become an AWS cloud expert, capable of designing scalable, cost-effective solutions.
+## Next Journey to Becoming an AWS Cloud Expert
+
+As I embark on my journey to becoming an AWS Cloud expert, I am diving deep into the world of cloud architecture with a focused approach. Currently, I am studying for the AWS Solutions Architect - Associate certification, which I believe is a crucial step in solidifying my foundational knowledge of AWS services and best practices.
+
+Achieving this certification will pave the way for my next goal: gaining expertise in infrastructure as code and container orchestration. I plan to pursue certifications in Terraform and Kubernetes, further enhancing my skills in designing scalable and cost-effective cloud solutions.
+
+My ultimate aim is to master the intricacies of AWS and related technologies, enabling me to architect robust cloud environments that drive efficiency and innovation. I look forward to sharing my experiences, insights, and learning along the way on this blog.
+
+Stay tuned as I document my progress and explore the ever-evolving landscape of cloud computing!
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
