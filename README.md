@@ -1,7 +1,7 @@
 # DevOps Engineer | Cloud Enthusiast | Automation Advocate
 ## Hi, I'm Sai Sri Harsha Surabhi 👋
 
-Hello! I'm an enthusiastic DevOps Engineer dedicated to harnessing the power of cloud technologies, automation, and scalable solutions. With a strong foundation in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform.
+I'm an enthusiastic DevOps Engineer dedicated to harnessing the power of cloud technologies, automation, and scalable solutions. With a strong foundation in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform.
 
 Currently, my focus is on mastering the intricacies of AWS services, building robust CI/CD pipelines, and optimizing deployment strategies for applications using container orchestration. My journey in tech has been multifaceted, and I'm particularly excited by the prospects of driving innovation in cloud engineering and infrastructure development.
 
