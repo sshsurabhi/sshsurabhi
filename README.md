@@ -18,6 +18,7 @@ I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
 
+<!--
 ## Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="40"/> </a> 
@@ -70,4 +71,4 @@ I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate
 
 ## What I'm working on
 Up next, I will be developing an e-commerce website where users can utilize a chatbox for assistance in navigating the website and obtaining information. The website will be developed using Django backend with RestAPI and will include a machine learning model built by myself.
-
+-->
