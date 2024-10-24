@@ -9,7 +9,7 @@ Having worked extensively with technologies like Docker, Jenkins, Linux and Pyth
 - ![py](https://skillicons.dev/icons?i=py&theme=light) ![linux](https://skillicons.dev/icons?i=linux&theme=light) ![ansible](https://skillicons.dev/icons?i=ansible&theme=light) ![prometheus](https://skillicons.dev/icons?i=prometheus&theme=light) ![grafana](https://skillicons.dev/icons?i=grafana&theme=light)
 - ![html](https://skillicons.dev/icons?i=html&theme=light) ![css](https://skillicons.dev/icons?i=css&theme=light) ![sass](https://skillicons.dev/icons?i=sass&theme=light) ![tailwind](https://skillicons.dev/icons?i=tailwind&theme=light)
 <!-- - ![ruby](https://skillicons.dev/icons?i=ruby&theme=light) ![rails](https://skillicons.dev/icons?i=rails&theme=light) ![php](https://skillicons.dev/icons?i=php&theme=light) -->
-- ![django](https://skillicons.dev/icons?i=django&theme=light) ![pyqt](https://skillicons.dev/icons?i=pyqt&theme=light)
+- ![django](https://skillicons.dev/icons?i=django&theme=light) ![PyQt5](https://img.shields.io/badge/-PyQt5-0078D7?style=flat-square&logo=python&logoColor=white)
 - ![mysql](https://skillicons.dev/icons?i=mysql&theme=light) ![mongodb](https://skillicons.dev/icons?i=mongodb&theme=light) ![postgres](https://skillicons.dev/icons?i=postgres&theme=light)
 - ![postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![vscode](https://skillicons.dev/icons?i=vscode&theme=light)
 
