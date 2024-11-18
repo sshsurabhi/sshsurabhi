@@ -34,7 +34,7 @@ Stay tuned as I document my progress and explore the ever-evolving landscape of 
 - [LinkedIn](https://www.linkedin.com/in/sshsurabhi/)
 - [GitLab](https://gitlab.com/SaiSriHarsha)
 - [Xing](https://www.xing.com/profile/SaiSriHarsha_Surabhi/web_profiles)
-- [DatascientistPortfolio](https://www.datascienceportfol.io/konnectsurabhi).
+- [Portfolio](https://www.datascienceportfol.io/konnectsurabhi).
 
 <!--
 ## Skills
