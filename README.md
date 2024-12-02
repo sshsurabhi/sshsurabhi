@@ -39,9 +39,9 @@ Stay tuned as I document my progress and explore the ever-evolving landscape of 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saikiranpi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saikiranpi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranpi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sshsurabhi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sshsurabhi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sshsurabhi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 ## Skills
