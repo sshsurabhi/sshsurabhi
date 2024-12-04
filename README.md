@@ -9,7 +9,7 @@ I have a solid background in containerization technologies such as Docker, and I
 
 In addition to my DevOps expertise, I've dabbled in both frontend and backend development, primarily focusing on Python and Django with REST APIs. However, my current passion lies in cloud engineering where I strive to push boundaries and explore new ways to leverage technology for smoother operational workflows.
 
-Join me on this journey as I share insights, learnings, and projects that fuel my passion for DevOps and cloud technologies. Let's build scalable infrastructure and make DevOps more efficient and reliable together!
+Join me on this journey as I share insights, learnings, and projects that fuel my passion for DevOps and cloud technologies. Let's build scalable infrastructure and make DevOps more efficient and reliable together...!
 
 ## Skills
 - ![aws](https://skillicons.dev/icons?i=aws&theme=light) ![kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![docker](https://skillicons.dev/icons?i=docker&theme=light) ![terraform](https://skillicons.dev/icons?i=terraform&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) ![github](https://skillicons.dev/icons?i=github&theme=light) ![gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
